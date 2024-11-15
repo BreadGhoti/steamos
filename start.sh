@@ -25,4 +25,3 @@ docker run -d \
   --shm-size="1gb" \
   --restart unless-stopped \
   lscr.io/linuxserver/steamos:latest
-
